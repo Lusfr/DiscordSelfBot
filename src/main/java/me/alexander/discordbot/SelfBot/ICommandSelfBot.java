@@ -1,6 +1,6 @@
-package me.alexander.discordbot.SelfBot;
+package main.java.me.alexander.discordbot.SelfBot;
 
-import static me.alexander.discordbot.SelfBot.Utils.deleteMessageLater;
+import static main.java.me.alexander.discordbot.SelfBot.Utils.deleteMessageLater;
 
 import java.awt.Color;
 import java.util.concurrent.ExecutionException;
@@ -10,7 +10,7 @@ import de.btobastian.javacord.entities.User;
 import de.btobastian.javacord.entities.message.Message;
 import de.btobastian.javacord.entities.message.embed.EmbedBuilder;
 import de.btobastian.javacord.entities.permissions.PermissionType;
-import me.alexander.discordbot.SelfBot.Messages.EmbeddedMessageUtil;
+import main.java.me.alexander.discordbot.SelfBot.Messages.EmbeddedMessageUtil;
 
 /**
  * Takes input and interprets it

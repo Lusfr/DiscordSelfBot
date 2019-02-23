@@ -1,4 +1,4 @@
-package me.alexander.discordbot.SelfBot;
+package main.java.me.alexander.discordbot.SelfBot;
 
 import java.util.ArrayList;
 import java.util.List;

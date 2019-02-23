@@ -1,9 +1,9 @@
-package me.alexander.discordbot;
+package main.java.me.alexander.discordbot;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import me.alexander.discordbot.SelfBot.SelfBot;
+import main.java.me.alexander.discordbot.SelfBot.SelfBot;
 
 public class Main {
 

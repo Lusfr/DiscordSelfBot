@@ -1,4 +1,4 @@
-package me.alexander.discordbot.SelfBot;
+package main.java.me.alexander.discordbot.SelfBot;
 
 import java.util.concurrent.ExecutionException;
 
@@ -12,7 +12,7 @@ import de.btobastian.javacord.Javacord;
 import de.btobastian.javacord.entities.message.Message;
 import de.btobastian.javacord.listener.message.MessageCreateListener;
 import de.btobastian.javacord.listener.message.MessageEditListener;
-import me.alexander.discordbot.SelfBot.Messages.IMessageSelfBot;
+import main.java.me.alexander.discordbot.SelfBot.Messages.IMessageSelfBot;
 
 /**
  * The SelfBot bot

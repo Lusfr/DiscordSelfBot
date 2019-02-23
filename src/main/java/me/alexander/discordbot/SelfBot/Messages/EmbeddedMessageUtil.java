@@ -1,7 +1,7 @@
-package me.alexander.discordbot.SelfBot.Messages;
+package main.java.me.alexander.discordbot.SelfBot.Messages;
 
-import static me.alexander.discordbot.SelfBot.Utils.extractUrls;
-import static me.alexander.discordbot.SelfBot.Utils.getUser;
+import static main.java.me.alexander.discordbot.SelfBot.Utils.extractUrls;
+import static main.java.me.alexander.discordbot.SelfBot.Utils.getUser;
 
 import java.awt.Color;
 import java.security.SecureRandom;
@@ -13,7 +13,7 @@ import de.btobastian.javacord.entities.Channel;
 import de.btobastian.javacord.entities.User;
 import de.btobastian.javacord.entities.message.Message;
 import de.btobastian.javacord.entities.message.embed.EmbedBuilder;
-import me.alexander.discordbot.SelfBot.SelfBot;
+import main.java.me.alexander.discordbot.SelfBot.SelfBot;
 
 public class EmbeddedMessageUtil {
 

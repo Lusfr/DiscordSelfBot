@@ -1,10 +1,10 @@
-package me.alexander.discordbot.SelfBot.Messages;
+package main.java.me.alexander.discordbot.SelfBot.Messages;
 
 import java.util.concurrent.ExecutionException;
 
 import de.btobastian.javacord.entities.message.Message;
-import me.alexander.discordbot.SelfBot.ICommandSelfBot;
-import me.alexander.discordbot.SelfBot.SelfBot;
+import main.java.me.alexander.discordbot.SelfBot.ICommandSelfBot;
+import main.java.me.alexander.discordbot.SelfBot.SelfBot;
 
 public class IMessageSelfBot {
 
